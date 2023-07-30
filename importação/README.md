@@ -1,0 +1,1 @@
+aula de importação e exportação com js, eu fiz apenas uma mudança, adicionei a propriedade "entradas" no module.exports para o main.js. Isso ajuda em uma coisa, para não estar limitado em apenas 5 números, e sim ao maximo que colocar, caso seja 8, o tanto que puxara, seja 8 
